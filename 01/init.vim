@@ -1,4 +1,6 @@
 " vim: fdm=marker fmr={{{,}}} fdl=0 fen
+
+" Basic config {{{
 " better leader
 let mapleader      = ' '
 let maplocalleader = ','
@@ -20,6 +22,7 @@ set smartindent
 
 " Best options for changing text
 set cpoptions+=$
+"}}}
 
 " Plugins {{{
 call plug#begin('~/Documents/dotvim/plugged')
