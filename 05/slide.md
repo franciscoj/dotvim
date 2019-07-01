@@ -1,6 +1,6 @@
 # Tools that help navigating code (fzf + ripgrep)
 
-[fzr] is a fuzzy finder and a Vim plugin [fzf-vim] which uses it.
+[fzf] is a fuzzy finder and a Vim plugin [fzf-vim] which uses it.
 
 [ripgrep] is a faster grep written in Rust. Besides it knows how to ignore
 files (like the things on your `.gitignore`)
