@@ -1,4 +1,4 @@
-# Some helpful mappings
+# Helpful things without plugins
 
 You can do a lot with plain Vim. Some things which are a bit painful can be
 easily improved. Vim help is full of interesting information. e.g.:
