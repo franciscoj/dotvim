@@ -9,5 +9,5 @@ Plugin manager for vim/Neovim
 
 [vim-plug]: https://github.com/junegunn/vim-plug
 [vim-sensible]: https://github.com/tpope/vim-sensible
-[vim-sensible]: https://github.com/tpope/vim-unimpaired
+[vim-unimpaired]: https://github.com/tpope/vim-unimpaired
 
